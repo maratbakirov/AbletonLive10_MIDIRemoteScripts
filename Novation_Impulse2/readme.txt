@@ -2,6 +2,18 @@ Created by Marat Bakirov 2013-2019
 Discussion
 https://forum.ableton.com/viewtopic.php?f=1&t=197828
 
+Releases:
+
+Ableton 10:
+https://github.com/maratbakirov/AbletonLive10_MIDIRemoteScripts/tree/master/_releases
+
+Ableton 9:
+https://github.com/maratbakirov/AbletonLive9_RemoteScripts/tree/master/_releases
+Novation_Impulse2_9_1.zip is for older versions 
+Novation_Impulse2.zip
+is for newer versions
+
+
 Features
 
 Mixer  button 9 = OverDub
