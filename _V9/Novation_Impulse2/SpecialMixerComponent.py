@@ -1,4 +1,5 @@
 #Embedded file name: /Users/versonator/Hudson/live/Projects/AppLive/Resources/MIDI Remote Scripts/Novation_Impulse/SpecialMixerComponent.py
+# Novation_Impulse2
 from _Framework.MixerComponent import MixerComponent
 from _Framework.ButtonElement import ButtonElement
 

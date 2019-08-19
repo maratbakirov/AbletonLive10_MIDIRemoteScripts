@@ -1,4 +1,5 @@
 #Embedded file name: /Users/versonator/Hudson/live/Projects/AppLive/Resources/MIDI Remote Scripts/Novation_Impulse/ShiftableTransportComponent.py
+# Novation_Impulse2
 import Live
 NavDirection = Live.Application.Application.View.NavDirection
 from _Framework.ButtonElement import ButtonElement

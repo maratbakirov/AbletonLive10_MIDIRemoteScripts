@@ -1,4 +1,5 @@
 #Embedded file name: /Users/versonator/Hudson/live/Projects/AppLive/Resources/MIDI Remote Scripts/Novation_Impulse/PeekableEncoderElement.py
+# Novation_Impulse2
 import Live
 from _Framework.EncoderElement import EncoderElement
 from _Framework.InputControlElement import *

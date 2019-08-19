@@ -10,7 +10,7 @@ Shift + Mixer  button 9  = Automation record on/off
 Shift + Rec  = Metronome on/off
 Shift + Play = Undo
 Shift + Stop = Stop all clips
-Shift + Ffwd/Back  - next/previous device
+Shift + Ffwd/Back  - next/previous device ?? to investigate if it works still
 
 Shift + Loop now enters "alternative assignments" mode.
 Differences:
@@ -19,7 +19,7 @@ Differences:
 
 It is very good for perfomance when you need to quickly switch instruments and only have one left hand or right hand available as the other is ready to play
 
-Shift + Clip buttons are now clip stop.
+Shift + Clip buttons are now clip stop
 
 
 

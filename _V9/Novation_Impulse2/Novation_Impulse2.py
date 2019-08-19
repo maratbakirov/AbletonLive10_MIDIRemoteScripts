@@ -1,4 +1,5 @@
 #Embedded file name: /Users/versonator/Hudson/live/Projects/AppLive/Resources/MIDI Remote Scripts/Novation_Impulse/Novation_Impulse.py
+# Novation_Impulse2
 from __future__ import with_statement
 import Live
 from _Framework.ControlSurface import ControlSurface
