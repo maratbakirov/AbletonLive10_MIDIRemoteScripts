@@ -143,6 +143,7 @@
     <Content Include="Novation_Impulse2\debug.bat" />
     <Content Include="Novation_Impulse2\deploy.bat" />
     <Content Include="Novation_Impulse2\readme.txt" />
+    <Content Include="README.md" />
     <Content Include="_V9\Novation_Impulse2\debug.bat" />
     <Content Include="_V9\Novation_Impulse2\deploy.bat" />
     <Content Include="_V9\Novation_Impulse2\readme.txt" />

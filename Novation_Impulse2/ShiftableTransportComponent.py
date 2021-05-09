@@ -6,6 +6,7 @@ import Live
 from _Framework.ButtonElement import ButtonElement
 from _Framework.TransportComponent import TransportComponent
 from _Framework.ToggleComponent import ToggleComponent
+NavDirection = Live.Application.Application.View.NavDirection
 
 class ShiftableTransportComponent(TransportComponent):
     u""" Special transport class handling the seek buttons differently based on a shift button"""
@@ -129,6 +130,14 @@ class ShiftableTransportComponent(TransportComponent):
             TransportComponent._rwd_value(self, value)
         return
 
+
+    def _scroll_device_chain(self, direction):
+        view = self.application().view
+        if not view.is_view_visible('Detail') or not view.is_view_visible('Detail/DeviceChain'):
+            view.show_view('Detail')
+            view.show_view('Detail/DeviceChain')
+        else:
+            view.scroll_view(direction, 'Detail/DeviceChain', False)
 
     def log(self, message):
         pass
