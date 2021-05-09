@@ -1,17 +1,12 @@
-# Ableton Live 10.0.2 MIDI Remote Scripts
-Unofficial repository for Ableton Live 10.0.2 MIDI Remote Scripts Python Sources by Julien Bayle
+please download from the folder 
 
-You can find more informations on this page :
+https://github.com/maratbakirov/AbletonLive10_MIDIRemoteScripts/releases
 
-https://julienbayle.studio/ableton-live-midi-remote-scripts
+Novation_Impulse2.zip 
+
+extract the zip to the 
+
+"C:\ProgramData\Ableton\Live 10 [Suite]\Resources\MIDI Remote Scripts" 
 
 
-You can read the PythonLiveAPI extracted documentation :
 
-https://julienbayle.studio/PythonLiveAPI_documentation/Live10.0.2.xml
-
-UPDATED on 07th June 2018
-
-===> NO support given, ONLY source files !
-
-Please enjoy.
